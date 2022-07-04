@@ -1,0 +1,1560 @@
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '8a4b0a68-1b7f-4e3d-9772-64b3459890cb',
+    message_id: 'abfda385-61d1-40ee-98b9-07b27920c907',
+    timestamp: 2022-07-03T10:10:36.171Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '8a4b0a68-1b7f-4e3d-9772-64b3459890cb',
+    message_id: 'abfda385-61d1-40ee-98b9-07b27920c907',
+    timestamp: '2022-07-03T10:10:36.171Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+SyntaxError: Unexpected token A in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Response.json (file:///build/node_modules/node-fetch/src/body.js:149:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async onSearch (file:///build/src/utils/protocolApis/index.js:68:20)
+    at async SearchService.onSearch (file:///build/src/discovery/search.service.js:150:44)
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '2ccccfef-11c4-4cf8-8f71-95abd6eac385',
+    message_id: 'f3c9ff1f-33e0-4afb-85ce-9b5c8624fdc8',
+    timestamp: 2022-07-03T10:30:54.491Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: null,
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '2ccccfef-11c4-4cf8-8f71-95abd6eac385',
+    message_id: 'f3c9ff1f-33e0-4afb-85ce-9b5c8624fdc8',
+    timestamp: '2022-07-03T10:30:54.491Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '6985edaf-1bf5-4542-befd-d3f70a01c45c',
+    message_id: '171ff9aa-4818-44d3-9dac-d9fb80f55e63',
+    timestamp: 2022-07-03T10:31:26.179Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: null,
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '6985edaf-1bf5-4542-befd-d3f70a01c45c',
+    message_id: '171ff9aa-4818-44d3-9dac-d9fb80f55e63',
+    timestamp: '2022-07-03T10:31:26.179Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '0d11bcec-ddb9-4d20-a812-99c52490d6df',
+    message_id: 'a84f876e-5650-49b3-b57a-b00bfa1d57ba',
+    timestamp: 2022-07-03T10:32:08.128Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: null,
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '0d11bcec-ddb9-4d20-a812-99c52490d6df',
+    message_id: 'a84f876e-5650-49b3-b57a-b00bfa1d57ba',
+    timestamp: '2022-07-03T10:32:08.128Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'd78134d7-6942-415e-8ad2-c1e6c856afd8',
+    message_id: '46ecea37-2292-4580-a8de-cb9c9183e1c1',
+    timestamp: 2022-07-03T10:38:02.548Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: null,
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'd78134d7-6942-415e-8ad2-c1e6c856afd8',
+    message_id: '46ecea37-2292-4580-a8de-cb9c9183e1c1',
+    timestamp: '2022-07-03T10:38:02.548Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '0d9ed18d-a5f2-4d18-8d0e-463c231d7fa3',
+    message_id: '48c12563-462c-423b-a801-2ef62b563e30',
+    timestamp: 2022-07-03T10:38:03.876Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: null,
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '0d9ed18d-a5f2-4d18-8d0e-463c231d7fa3',
+    message_id: '48c12563-462c-423b-a801-2ef62b563e30',
+    timestamp: '2022-07-03T10:38:03.876Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '764cc66f-8c3d-46d6-b970-16a264f38986',
+    message_id: '5c7ad2c8-8172-424c-9f86-8a65749eec87',
+    timestamp: 2022-07-03T10:42:57.152Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: null,
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '764cc66f-8c3d-46d6-b970-16a264f38986',
+    message_id: '5c7ad2c8-8172-424c-9f86-8a65749eec87',
+    timestamp: '2022-07-03T10:42:57.152Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'a0ca9b0d-ce46-42ec-9949-c5564ac1c2a3',
+    message_id: '0915e638-d7e0-4481-9acc-e6b62206a9be',
+    timestamp: 2022-07-03T10:44:52.722Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: null,
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'a0ca9b0d-ce46-42ec-9949-c5564ac1c2a3',
+    message_id: '0915e638-d7e0-4481-9acc-e6b62206a9be',
+    timestamp: '2022-07-03T10:44:52.722Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '7add1ccc-e509-4300-bff3-50eeeb06da03',
+    message_id: '91581f42-7e15-4a82-9017-f94a5ffb7957',
+    timestamp: 2022-07-03T10:44:53.417Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: null,
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '7add1ccc-e509-4300-bff3-50eeeb06da03',
+    message_id: '91581f42-7e15-4a82-9017-f94a5ffb7957',
+    timestamp: '2022-07-03T10:44:53.417Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '4ff9b5e9-cfd5-40e6-a318-cc86ffe25233',
+    message_id: '16f8a0a0-b940-42fb-bebd-53de518c8e01',
+    timestamp: 2022-07-03T10:49:33.560Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: null,
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '4ff9b5e9-cfd5-40e6-a318-cc86ffe25233',
+    message_id: '16f8a0a0-b940-42fb-bebd-53de518c8e01',
+    timestamp: '2022-07-03T10:49:33.560Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '05ba5fc3-406c-48ec-b0fe-b6008a83b55b',
+    message_id: '28b1c671-6fe0-46fc-8d34-d1d17a9f128e',
+    timestamp: 2022-07-03T10:54:39.261Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: null,
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '05ba5fc3-406c-48ec-b0fe-b6008a83b55b',
+    message_id: '28b1c671-6fe0-46fc-8d34-d1d17a9f128e',
+    timestamp: '2022-07-03T10:54:39.261Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '7563d85e-d865-4d92-a094-038d78b4433d',
+    message_id: '77e4f38f-872c-4a3c-9928-efb18da05747',
+    timestamp: 2022-07-03T10:57:57.232Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '7563d85e-d865-4d92-a094-038d78b4433d',
+    message_id: '77e4f38f-872c-4a3c-9928-efb18da05747',
+    timestamp: '2022-07-03T10:57:57.232Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '50089fcd-0a79-4119-be8f-05280785aea4',
+    message_id: '27aa1fe1-918e-42ff-a3b4-69d4e34e4fa9',
+    timestamp: 2022-07-03T11:32:59.744Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '50089fcd-0a79-4119-be8f-05280785aea4',
+    message_id: '27aa1fe1-918e-42ff-a3b4-69d4e34e4fa9',
+    timestamp: '2022-07-03T11:32:59.744Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '384edc15-77e8-4912-b36e-21032c4f63cb',
+    message_id: '5974f035-1d4e-4211-921f-e2c45a052efe',
+    timestamp: 2022-07-03T11:50:22.040Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '384edc15-77e8-4912-b36e-21032c4f63cb',
+    message_id: '5974f035-1d4e-4211-921f-e2c45a052efe',
+    timestamp: '2022-07-03T11:50:22.040Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '39ba4e99-3520-4a9d-8a25-1e90826d8d26',
+    message_id: '5f44123a-4a61-4404-9829-4d0df7494c0d',
+    timestamp: 2022-07-03T11:54:08.037Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '39ba4e99-3520-4a9d-8a25-1e90826d8d26',
+    message_id: '5f44123a-4a61-4404-9829-4d0df7494c0d',
+    timestamp: '2022-07-03T11:54:08.037Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '7ffbe9f4-00f7-4917-8b12-26b82be1a68b',
+    message_id: '23159c10-0f61-4570-8a7e-2542b91d0afd',
+    timestamp: 2022-07-03T11:56:47.236Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '7ffbe9f4-00f7-4917-8b12-26b82be1a68b',
+    message_id: '23159c10-0f61-4570-8a7e-2542b91d0afd',
+    timestamp: '2022-07-03T11:56:47.236Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '1e43810b-b25e-4b22-8532-386567fc1dc5',
+    message_id: '75fac2f5-3db5-4b71-8006-b3f082edd3ea',
+    timestamp: 2022-07-03T11:57:20.290Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '1e43810b-b25e-4b22-8532-386567fc1dc5',
+    message_id: '75fac2f5-3db5-4b71-8006-b3f082edd3ea',
+    timestamp: '2022-07-03T11:57:20.290Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '4ed49484-9c02-4269-9c1b-e048d2584110',
+    message_id: 'b2619d0e-c084-4eb0-9ae4-c66a81a5457c',
+    timestamp: 2022-07-03T12:05:13.815Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '4ed49484-9c02-4269-9c1b-e048d2584110',
+    message_id: 'b2619d0e-c084-4eb0-9ae4-c66a81a5457c',
+    timestamp: '2022-07-03T12:05:13.815Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '0c067dd2-d9fe-4165-9441-77e16f5d86de',
+    message_id: '76ba0b4f-ab64-44d7-9ba3-6a0917f2a7ea',
+    timestamp: 2022-07-03T12:06:16.816Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '0c067dd2-d9fe-4165-9441-77e16f5d86de',
+    message_id: '76ba0b4f-ab64-44d7-9ba3-6a0917f2a7ea',
+    timestamp: '2022-07-03T12:06:16.816Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'a6c2d50b-787a-429b-a3bd-8961058f2fbf',
+    message_id: '4106a4e3-6204-4596-a29a-0dddba7d3c9c',
+    timestamp: 2022-07-03T12:07:03.034Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'a6c2d50b-787a-429b-a3bd-8961058f2fbf',
+    message_id: '4106a4e3-6204-4596-a29a-0dddba7d3c9c',
+    timestamp: '2022-07-03T12:07:03.034Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'c76fc07a-f67f-4e0c-8dbf-577d4fc8a156',
+    message_id: '8544e509-f04d-4c2b-a2d7-9ed2442fcbaf',
+    timestamp: 2022-07-03T12:08:31.981Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'c76fc07a-f67f-4e0c-8dbf-577d4fc8a156',
+    message_id: '8544e509-f04d-4c2b-a2d7-9ed2442fcbaf',
+    timestamp: '2022-07-03T12:08:31.981Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '41b69fe0-3695-42e8-ab81-51a88ea91981',
+    message_id: '5b2bf727-0779-4409-9d49-d938dfca9493',
+    timestamp: 2022-07-03T12:16:21.956Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '41b69fe0-3695-42e8-ab81-51a88ea91981',
+    message_id: '5b2bf727-0779-4409-9d49-d938dfca9493',
+    timestamp: '2022-07-03T12:16:21.956Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'd3287e7a-5db0-432a-89d3-dfe2e9128438',
+    message_id: '1a7805aa-2100-4780-97bd-f9eceaa48dc3',
+    timestamp: 2022-07-03T12:29:54.664Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'd3287e7a-5db0-432a-89d3-dfe2e9128438',
+    message_id: '1a7805aa-2100-4780-97bd-f9eceaa48dc3',
+    timestamp: '2022-07-03T12:29:54.664Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '9d82ce4d-5a4a-479f-8190-1934175d860f',
+    message_id: 'beb418fd-786f-4317-babc-832554d395c5',
+    timestamp: 2022-07-03T12:57:20.353Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '9d82ce4d-5a4a-479f-8190-1934175d860f',
+    message_id: 'beb418fd-786f-4317-babc-832554d395c5',
+    timestamp: '2022-07-03T12:57:20.353Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '5dd49443-42b9-4d93-9042-c12032c753ed',
+    message_id: '85a4d6f8-c6f0-4f97-b1fe-75ffa7d7c0b4',
+    timestamp: 2022-07-03T13:05:57.280Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '5dd49443-42b9-4d93-9042-c12032c753ed',
+    message_id: '85a4d6f8-c6f0-4f97-b1fe-75ffa7d7c0b4',
+    timestamp: '2022-07-03T13:05:57.280Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'bb3f1016-12fb-4081-bd16-f8a3fb536814',
+    message_id: '6cf70f76-46a1-4a4c-b85e-4243a36976fd',
+    timestamp: 2022-07-03T13:06:51.881Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'bb3f1016-12fb-4081-bd16-f8a3fb536814',
+    message_id: '6cf70f76-46a1-4a4c-b85e-4243a36976fd',
+    timestamp: '2022-07-03T13:06:51.881Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'f9682153-6fa1-4d22-b597-175203159d5e',
+    message_id: '57a5b9d1-2029-47de-b911-79fb74d74b1b',
+    timestamp: 2022-07-03T13:34:48.148Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'f9682153-6fa1-4d22-b597-175203159d5e',
+    message_id: '57a5b9d1-2029-47de-b911-79fb74d74b1b',
+    timestamp: '2022-07-03T13:34:48.148Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '6cea70e8-339b-40e4-8c60-64b07650ad3b',
+    message_id: '6da5b4a0-3077-483b-ad1d-00857a9d43ab',
+    timestamp: 2022-07-03T13:39:51.107Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '6cea70e8-339b-40e4-8c60-64b07650ad3b',
+    message_id: '6da5b4a0-3077-483b-ad1d-00857a9d43ab',
+    timestamp: '2022-07-03T13:39:51.107Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '7608df94-03d5-42a9-b0b7-f1a166718bf8',
+    message_id: '20853452-1731-4ef6-90d4-daa2dbdd9923',
+    timestamp: 2022-07-03T14:00:47.648Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '7608df94-03d5-42a9-b0b7-f1a166718bf8',
+    message_id: '20853452-1731-4ef6-90d4-daa2dbdd9923',
+    timestamp: '2022-07-03T14:00:47.648Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'bec7f0a8-1e29-465e-8096-ccf489d64670',
+    message_id: 'c9e8e6ec-bf32-441b-914b-38362c89b884',
+    timestamp: 2022-07-03T19:06:05.938Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'bec7f0a8-1e29-465e-8096-ccf489d64670',
+    message_id: 'c9e8e6ec-bf32-441b-914b-38362c89b884',
+    timestamp: '2022-07-03T19:06:05.938Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'bdd7b0e8-9b0a-4823-b798-0b3167a1bedc',
+    message_id: '39829cad-766e-469e-8185-2d440d25c9ac',
+    timestamp: 2022-07-04T08:15:19.752Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'bdd7b0e8-9b0a-4823-b798-0b3167a1bedc',
+    message_id: '39829cad-766e-469e-8185-2d440d25c9ac',
+    timestamp: '2022-07-04T08:15:19.752Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '664d5a6c-32fb-48d6-9b78-d01242b38b38',
+    message_id: 'd598bcae-21ea-4445-aa80-34fc0a5be6e4',
+    timestamp: 2022-07-04T08:21:54.268Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '664d5a6c-32fb-48d6-9b78-d01242b38b38',
+    message_id: 'd598bcae-21ea-4445-aa80-34fc0a5be6e4',
+    timestamp: '2022-07-04T08:21:54.268Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'cc140952-c3c8-43aa-86fb-5e025e323b3f',
+    message_id: '804ae664-236f-4576-abf7-82884cf2fc09',
+    timestamp: 2022-07-04T08:55:11.237Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'cc140952-c3c8-43aa-86fb-5e025e323b3f',
+    message_id: '804ae664-236f-4576-abf7-82884cf2fc09',
+    timestamp: '2022-07-04T08:55:11.237Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'a6c7d5f0-3935-4f29-b0df-b32b75fa18bb',
+    message_id: 'df02b337-c064-4b87-bfea-98ae86f713ab',
+    timestamp: 2022-07-04T08:56:15.895Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'a6c7d5f0-3935-4f29-b0df-b32b75fa18bb',
+    message_id: 'df02b337-c064-4b87-bfea-98ae86f713ab',
+    timestamp: '2022-07-04T08:56:15.895Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '10213679-cf70-49cb-9676-cce5570473cd',
+    message_id: '97121794-9753-48ea-a843-88e3f78f5590',
+    timestamp: 2022-07-04T08:59:19.862Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '10213679-cf70-49cb-9676-cce5570473cd',
+    message_id: '97121794-9753-48ea-a843-88e3f78f5590',
+    timestamp: '2022-07-04T08:59:19.862Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'eca2c026-88e0-43b6-a252-e222249609a0',
+    message_id: '88f5d61c-9290-40b6-84f0-3b989dc5b23f',
+    timestamp: 2022-07-04T08:59:22.215Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'eca2c026-88e0-43b6-a252-e222249609a0',
+    message_id: '88f5d61c-9290-40b6-84f0-3b989dc5b23f',
+    timestamp: '2022-07-04T08:59:22.215Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '18f7a2fe-d15c-4300-8c9d-20bd8db6613f',
+    message_id: '7c7d1068-2622-476a-97c9-32991055c46e',
+    timestamp: 2022-07-04T08:59:59.272Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '18f7a2fe-d15c-4300-8c9d-20bd8db6613f',
+    message_id: '7c7d1068-2622-476a-97c9-32991055c46e',
+    timestamp: '2022-07-04T08:59:59.272Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '29ac59db-6fa7-44c4-9b95-9b9880f08be7',
+    message_id: 'a4bd1d64-ad46-43b7-8134-9aae76238ac7',
+    timestamp: 2022-07-04T09:00:31.508Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '29ac59db-6fa7-44c4-9b95-9b9880f08be7',
+    message_id: 'a4bd1d64-ad46-43b7-8134-9aae76238ac7',
+    timestamp: '2022-07-04T09:00:31.508Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '084b53d2-7a54-4269-abde-2865f5afb5a3',
+    message_id: 'b6eb1cff-05ff-4887-92c6-fe8dee25554b',
+    timestamp: 2022-07-04T09:00:55.835Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '084b53d2-7a54-4269-abde-2865f5afb5a3',
+    message_id: 'b6eb1cff-05ff-4887-92c6-fe8dee25554b',
+    timestamp: '2022-07-04T09:00:55.835Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: '4ee86b50-437c-443b-8d74-bc78c918c59b',
+    message_id: '12e91ffa-7072-4858-a39f-3e362617ffd3',
+    timestamp: 2022-07-04T09:01:20.044Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: '4ee86b50-437c-443b-8d74-bc78c918c59b',
+    message_id: '12e91ffa-7072-4858-a39f-3e362617ffd3',
+    timestamp: '2022-07-04T09:01:20.044Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'b2ac4e0c-99c4-42d6-92cb-a9768039c21a',
+    message_id: '5e4e4a0f-722e-4430-8276-d58bde627088',
+    timestamp: 2022-07-04T10:46:14.475Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'b2ac4e0c-99c4-42d6-92cb-a9768039c21a',
+    message_id: '5e4e4a0f-722e-4430-8276-d58bde627088',
+    timestamp: '2022-07-04T10:46:14.475Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
+https://agrih.gateway.ondc.org/ {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    bpp_id: undefined,
+    transaction_id: 'a94f9287-6cd8-48b7-984b-06ecaed01538',
+    message_id: '5a6de9f4-62c4-4c3b-9966-ddd9160117c1',
+    timestamp: 2022-07-04T13:41:06.508Z
+  },
+  message: {
+    intent: {
+      item: [Object],
+      provider: [Object],
+      fulfillment: [Object],
+      category: [Object]
+    }
+  }
+} {
+  context: {
+    domain: 'nic2004:52110',
+    country: 'IND',
+    city: 'std:080',
+    action: 'search',
+    core_version: '0.9.3',
+    bap_id: 'maalexi.com',
+    bap_uri: 'https://ondc-integration.maalexi.com/ondc',
+    transaction_id: 'a94f9287-6cd8-48b7-984b-06ecaed01538',
+    message_id: '5a6de9f4-62c4-4c3b-9966-ddd9160117c1',
+    timestamp: '2022-07-04T13:41:06.508Z'
+  },
+  message: { ack: { status: 'ACK' } }
+}
